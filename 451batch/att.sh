@@ -1,6 +1,6 @@
-ispersent=1
+present=1
 check=$((RANDOM%2))
-if [$check -eq $ispresent ]
+if [$check -eq $present ]
 then
 	echo "Employe is present"
 else
